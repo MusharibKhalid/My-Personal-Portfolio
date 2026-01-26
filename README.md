@@ -8,11 +8,11 @@
 - JavaScript
 
 ## 📸 Preview
-![Portfolio Preview 1](images/preview1.png)
-![Portfolio Preview 2](images/preview2.png)
-![Portfolio Preview 3](images/preview3.png)
-![Portfolio Preview 4](images/preview4.png)
-![Portfolio Preview 5](images/preview5.png)
+![Preview 1](preview1.png)
+![Preview 2](preview2.png)
+![Preview 3](preview3.png)
+![Preview 4](preview4.png)
+![Preview 5](preview5.png)
 
 
 ## 📬 Contact
