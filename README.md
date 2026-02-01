@@ -16,5 +16,5 @@
 
 
 ## Contact
-- LinkedIn: https://www.linkedin.com/in/musharib-khalid
+- LinkedIn: https://www.linkedin.com/in/musharib-khalid-0132493a2/
 - GitHub: https://github.com/MusharibKhalid
